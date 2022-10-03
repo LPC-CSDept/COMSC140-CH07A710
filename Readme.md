@@ -1,5 +1,5 @@
 
-[Link to Chap 7 Lab16](https://docs.google.com/presentation/d/1JAYVQiZr57OZfIMUQAkPNPlCKidqvytLhLDB5aqag_8/edit?usp=sharing?slide=id.g117599b468e_0_159)
+[Link to Chap 7 A10](https://docs.google.com/presentation/d/1JAYVQiZr57OZfIMUQAkPNPlCKidqvytLhLDB5aqag_8/edit?usp=sharing#slide=id.g117599b468e_0_159)
 
 
 ## Complete your main.py to draw the Matplotlib Graph based on the direction of Assignment 7-10
